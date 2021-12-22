@@ -6,4 +6,4 @@ privacy policy (https://www.reddit.com/help/privacypolicy).
 For the purposes of a university project, we will collect information about the content of posts, the subreddit they are posted in, as well as how many comments and how much karma said posts receive.
 The posts will be categorized according to popularity (based on karma and replies). The content of the posts will be analyzed via computer learning and used to predict popularity.
 The data will be sotred on students' personal computers and subsequently shared with Vienna University of Economics and Business.
-The results will be used for a university project, submitted to the university and presented in class. The purpose of this project is educational and the collected data will not be used for buiness purposes.
+The data  will be used for a university project dealing with the scalable handling of big data and understanding legal fundamentals and ethical frameworks in dealing with data in an international context. Results will be submitted to the university and presented in class. The purpose of this project is educational and the collected data will not be used for buiness purposes.
